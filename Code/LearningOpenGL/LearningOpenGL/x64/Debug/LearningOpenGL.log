@@ -1,0 +1,11 @@
+﻿  main.cpp
+F:\LearnOpenGL\Code\LearningOpenGL\LearningOpenGL\Shader.h(45,40): warning C4101: 'e': unreferenced local variable
+F:\LearnOpenGL\Code\LearningOpenGL\LearningOpenGL\main.cpp(212,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\LearnOpenGL\Code\LearningOpenGL\LearningOpenGL\main.cpp(296,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\LearnOpenGL\Code\LearningOpenGL\LearningOpenGL\main.cpp(297,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\LearnOpenGL\Code\LearningOpenGL\LearningOpenGL\main.cpp(301,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\LearnOpenGL\Code\LearningOpenGL\LearningOpenGL\main.cpp(302,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\LearnOpenGL\Code\LearningOpenGL\LearningOpenGL\main.cpp(304,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\LearnOpenGL\Code\LearningOpenGL\LearningOpenGL\main.cpp(305,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\LearnOpenGL\Code\LearningOpenGL\LearningOpenGL\main.cpp(312,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  LearningOpenGL.vcxproj -> F:\LearnOpenGL\Code\LearningOpenGL\x64\Debug\LearningOpenGL.exe
